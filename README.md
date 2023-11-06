@@ -13,9 +13,12 @@
 
 
 
+
+
+
 # Codember Challenges Solutions
 
-Bienvenido al repositorio de soluciones y explicaciones para los desafíos de [Codember](https://codember.dev/). Aquí encontrarás algoritmos, discusiones y análisis detallados de los desafíos planteados.
+Bienvenido al repositorio de soluciones y explicaciones para los desafíos de [Codember](https://codember.dev/). Aquí encontrarás las soluciones y análisis detallados de los desafíos planteados.
 
 
 
